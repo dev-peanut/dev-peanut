@@ -7,9 +7,11 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiltpdy0722@gmail.com)](mailto:spiltpdy0722@gmail.com)
 
 <!-- 노션 -->
-<a href="https://www.notion.so/881309aba24a4b2887fabe29a2431e68">
-   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-</a>
+<span>
+   <a href="https://www.notion.so/881309aba24a4b2887fabe29a2431e68">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+   </a>
+</span>
 
 
 <br>
